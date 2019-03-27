@@ -24,9 +24,13 @@ class IceCreamMachine:
         # YOUR CODE GOES HERE
         list =[]
         for x in self.ingredients:
+            if x not in self.ingredients:
+                list =[]
             for y in self.toppings:
                 l = [x+" "+y]
                 list.append(l)
+                if y not in self.toppings:
+                    list = []
         return list
 
 
