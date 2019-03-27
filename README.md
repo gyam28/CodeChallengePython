@@ -14,4 +14,4 @@ The <a href="https://github.com/dangquangdon/Python-0-to-1-Day-to-Day/blob/maste
 </ul>
 <p>More details on the specifics for each challenge can be found inside every separate script as introduction to it.</p>
 
-<p>p.s.: <b>Please note</b> the files will not appear in the order of described challenges due to being inserted ascending by name from a-z.</p>
+<p><b>p.s.: Please note the files will not appear in the order of described challenges due to being inserted ascending by name from a-z.</b></p>
